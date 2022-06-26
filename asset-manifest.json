@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SampreshLodhi/Assignment.git/static/css/main.dd9d27c3.css",
-    "main.js": "/SampreshLodhi/Assignment.git/static/js/main.202bb817.js",
-    "static/media/2.jpg": "/SampreshLodhi/Assignment.git/static/media/2.d2d2427405ee8ef1b5b9.jpg",
-    "static/media/pexels-photo-1239291.jpeg": "/SampreshLodhi/Assignment.git/static/media/pexels-photo-1239291.4e807c2ccbd94fbae775.jpeg",
-    "static/media/download.jpg": "/SampreshLodhi/Assignment.git/static/media/download.1f7cb3d95def439761da.jpg",
-    "index.html": "/SampreshLodhi/Assignment.git/index.html",
-    "main.dd9d27c3.css.map": "/SampreshLodhi/Assignment.git/static/css/main.dd9d27c3.css.map",
-    "main.202bb817.js.map": "/SampreshLodhi/Assignment.git/static/js/main.202bb817.js.map"
+    "main.css": "/Assignment/static/css/main.dd9d27c3.css",
+    "main.js": "/Assignment/static/js/main.052e2a9a.js",
+    "static/media/2.jpg": "/Assignment/static/media/2.d2d2427405ee8ef1b5b9.jpg",
+    "static/media/pexels-photo-1239291.jpeg": "/Assignment/static/media/pexels-photo-1239291.4e807c2ccbd94fbae775.jpeg",
+    "static/media/download.jpg": "/Assignment/static/media/download.1f7cb3d95def439761da.jpg",
+    "index.html": "/Assignment/index.html",
+    "main.dd9d27c3.css.map": "/Assignment/static/css/main.dd9d27c3.css.map",
+    "main.052e2a9a.js.map": "/Assignment/static/js/main.052e2a9a.js.map"
   },
   "entrypoints": [
     "static/css/main.dd9d27c3.css",
-    "static/js/main.202bb817.js"
+    "static/js/main.052e2a9a.js"
   ]
 }
